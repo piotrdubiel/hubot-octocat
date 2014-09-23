@@ -1,0 +1,27 @@
+{
+  "name": "hubot-octocat",
+  "description": "Octocat script repackaged",
+  "version": "1.0.0",
+  "author": "Tom Bell <tomb@tomb.io>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/piotrdubiel/hubot-octocat.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/piotrdubiel/hubot-octocat/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.8"
+  },
+
+  "main": "index.coffee"
+}
